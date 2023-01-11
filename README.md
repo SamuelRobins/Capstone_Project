@@ -11,3 +11,6 @@ This project is designed for the automobile industry. It is for those who sell u
 The data I used for this analysis is from Kaggle.com. It contains 973 entries of used cars. It tells what their features are and how much they sold for. Their sales price was my target feature.
 >>>>>>> origin
 ---------------------------------------------------------------------------------------------------------------------------------
+
+## Put all of headers in note book including model eval and conclusion, basically some all of your ntoes in notebook. Should be notebook without the actually code!
+Including independant learning
