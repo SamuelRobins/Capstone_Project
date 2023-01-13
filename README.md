@@ -1,4 +1,4 @@
-# Echo Park Auto-motive Model
+# Echo Park Auto-Motive Model
 
 ## Business Problem
 This project is made for Echo Park Automotive. They are a used car dealership. I have made a Decision Tree Regressor model. This model will process the data of used cars, their features, and their price. Aftrer learning the relationships between the details or features of the car and its selling price, it can begin to analize a car and predict its price. This has been created so that Echo Park Automotive can decide which cars to buy. If the model predicts a higher selling price than what is proposed on a prospective car, they should buy it and can flip the car. If the model predicts a lower selling price then what is proposed, then they should not buy the car.
